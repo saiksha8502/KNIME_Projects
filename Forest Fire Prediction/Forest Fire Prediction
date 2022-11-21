@@ -1,0 +1,1 @@
+This workflow trains a support vector machine regression model to predict the burning area in a forest fire in the Montesinho natural park in Portugal. The prediction is based on the current weather data and the location of the fire. The results are shown in a report.
