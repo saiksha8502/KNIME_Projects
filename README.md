@@ -1,4 +1,4 @@
-# KNIME_Projects
+# KNIME Projects
 KNIME, the Konstanz Information Miner, is a free and open-source data analytics, reporting and integration platform. KNIME integrates various components for machine learning and data mining. KNIME doesn't have limitations on data size, so long as you have enough RAM and disk space available.
 
 Useful keys in KNIME
