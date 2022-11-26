@@ -1,3 +1,5 @@
 Training a Churn:
 This workflow is an example of how to train a basic machine learning model for a churn prediction task. In this case we use a Decision Tree algorithm. However, the Learner-Predictor construct is common to all supervised algorthms.
 
+Deploying a churn:
+This workflow is an example of how to deploy a basic machine learning model for churn prediction. Notice the component to perform the visualization of the input customers in a tile view and the churning probabilities in a bar chart.
